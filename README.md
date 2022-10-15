@@ -1,3 +1,7 @@
+# Testing Open Simplex Noise
+
+using 
+
 open-simplex-noise-in-c
 =======================
 
